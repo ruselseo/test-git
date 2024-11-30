@@ -1,5 +1,5 @@
-first-edited1
-second-edited1
+first-edited
+second-edited
 third
 fourth
 fifth-otherChange
