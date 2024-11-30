@@ -1,0 +1,49 @@
+321737b HEAD@{0}: rebase (finish): returning to refs/heads/git_3
+321737b HEAD@{1}: rebase (squash): added 5 lines to doubtingFile.txt
+4e50356 HEAD@{2}: rebase (squash): # This is a combination of 4 commits.
+0009b7a HEAD@{3}: rebase (squash): # This is a combination of 3 commits.
+e0d300a HEAD@{4}: rebase (squash): # This is a combination of 2 commits.
+a669ae7 HEAD@{5}: rebase (start): checkout HEAD~5
+49f5b22 HEAD@{6}: commit: added line 5 doubtingFile.txt
+5e61ae2 HEAD@{7}: commit: added line 4 doubtingFile.txt
+713cfee HEAD@{8}: commit: added line 3 doubtingFile.txt
+219a0bf HEAD@{9}: commit: added line 2 doubtingFile.txt
+a669ae7 HEAD@{10}: commit: added line 1 doubtingFile.txt
+a4ff7dd HEAD@{11}: commit: ctreated an empty doubtingFile.txt
+3cbca9d HEAD@{12}: checkout: moving from git_1 to git_3
+3cbca9d HEAD@{13}: commit: applied stash
+2985325 HEAD@{14}: reset: moving to HEAD
+2985325 HEAD@{15}: pull origin main: Fast-forward
+d36f3b0 HEAD@{16}: reset: moving to HEAD
+d36f3b0 HEAD@{17}: checkout: moving from git_1 to git_1
+d36f3b0 HEAD@{18}: checkout: moving from git_2 to git_1
+4af8221 HEAD@{19}: reset: moving to HEAD~2
+559f104 HEAD@{20}: commit: Add thirdFile
+b1f01ca HEAD@{21}: revert: Revert "1"
+4af8221 HEAD@{22}: commit (amend): 1
+e29ceb9 HEAD@{23}: reset: moving to HEAD~2
+31eabeb HEAD@{24}: commit (cherry-pick): cherry-picked a495 commit from git_1
+4a179bd HEAD@{25}: checkout: moving from git_1 to git_2
+d36f3b0 HEAD@{26}: checkout: moving from git_2 to git_1
+4a179bd HEAD@{27}: commit: applied patch
+e29ceb9 HEAD@{28}: am --abort
+e29ceb9 HEAD@{29}: checkout: moving from git_1 to git_2
+d36f3b0 HEAD@{30}: checkout: moving from git_2 to git_1
+e29ceb9 HEAD@{31}: checkout: moving from git_1 to git_2
+d36f3b0 HEAD@{32}: commit: changed another lines 9 and 10
+a4951dd HEAD@{33}: commit: added other changes to lines 4 and 5
+5c3fa6e HEAD@{34}: reset: moving to HEAD~1
+54499aa HEAD@{35}: commit: changed last two line firstFile
+5c3fa6e HEAD@{36}: commit (merge): merged secondFile
+e15a80c HEAD@{37}: commit: secondFile.txt another change
+dec7d9d HEAD@{38}: checkout: moving from git_2 to git_1
+e29ceb9 HEAD@{39}: commit: 1
+c424d22 HEAD@{40}: commit: secondFile.txt changed first 2 lines
+ec62299 HEAD@{41}: reset: moving to HEAD~1
+65e7bd8 HEAD@{42}: merge git_1: Merge made by the 'ort' strategy.
+ec62299 HEAD@{43}: checkout: moving from git_1 to git_2
+dec7d9d HEAD@{44}: commit: added secondFile
+235ad80 HEAD@{45}: commit: add firstFile
+ec62299 HEAD@{46}: checkout: moving from git_task to git_1
+ec62299 HEAD@{47}: checkout: moving from main to git_task
+ec62299 HEAD@{48}: commit (initial): initial commit
