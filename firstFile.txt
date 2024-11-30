@@ -6,5 +6,5 @@ fifth-otherChange
 sixth-otherChange
 seventh
 eighth
-nineth-1channe
-tenth-2change
+nineth-1change
+tenth-1change
