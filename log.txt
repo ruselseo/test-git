@@ -1,0 +1,142 @@
+commit 49f5b22138c76e406e2aa564f4d5d3a1de5ce2b3
+Author: ruselseo@gmail.com <ruselseo@gmail.com>
+Date:   Sat Nov 30 19:10:23 2024 -0800
+
+    added line 5 doubtingFile.txt
+
+commit 5e61ae2e630ba9dd08d0baf9327444d3fc3620c1
+Author: ruselseo@gmail.com <ruselseo@gmail.com>
+Date:   Sat Nov 30 19:10:04 2024 -0800
+
+    added line 4 doubtingFile.txt
+
+commit 713cfee7c208199f8f317ef9aef7cec47f27ad58
+Author: ruselseo@gmail.com <ruselseo@gmail.com>
+Date:   Sat Nov 30 19:09:47 2024 -0800
+
+    added line 3 doubtingFile.txt
+
+commit 219a0bf74265df7b3b25b196250909534c216555
+Author: ruselseo@gmail.com <ruselseo@gmail.com>
+Date:   Sat Nov 30 19:09:27 2024 -0800
+
+    added line 2 doubtingFile.txt
+
+commit a669ae706113f27e74a017ed5ebb98ecba076e70
+Author: ruselseo@gmail.com <ruselseo@gmail.com>
+Date:   Sat Nov 30 19:09:01 2024 -0800
+
+    added line 1 doubtingFile.txt
+
+commit a4ff7ddcf073a06291b80237322aa7e0f3b57822
+Author: ruselseo@gmail.com <ruselseo@gmail.com>
+Date:   Sat Nov 30 19:07:55 2024 -0800
+
+    ctreated an empty doubtingFile.txt
+
+commit 3cbca9d23f2ad8036a10d1cce25a121eea004bc7
+Author: ruselseo@gmail.com <ruselseo@gmail.com>
+Date:   Sat Nov 30 19:03:55 2024 -0800
+
+    applied stash
+
+commit 29853251be162d2c6e8287ecc3fb6ef6edeba318
+Merge: 43452f2 855e181
+Author: ruselseo <113802744+ruselseo@users.noreply.github.com>
+Date:   Sat Nov 30 04:53:25 2024 -0800
+
+    Merge pull request #3 from ruselseo/git_1
+    
+    edited first and second lines
+
+commit 855e18199898b5fb9aa54637f450b6038c0577a0
+Author: ruselseo@gmail.com <ruselseo@gmail.com>
+Date:   Sat Nov 30 15:53:37 2024 -0800
+
+    edited first and second lines
+
+commit 43452f2d23ed8d1c62f886ec6081ad6b4e1241cb
+Merge: 5ccbfe9 82e42d4
+Author: ruselseo <113802744+ruselseo@users.noreply.github.com>
+Date:   Sat Nov 30 01:49:59 2024 -0800
+
+    Merge pull request #2 from ruselseo/git_1
+    
+    Git 1
+
+commit 82e42d488d9e873522f3aed67d0314ed14b76f9f
+Merge: d36f3b0 5ccbfe9
+Author: ruselseo <113802744+ruselseo@users.noreply.github.com>
+Date:   Sat Nov 30 01:49:48 2024 -0800
+
+    Merge branch 'main' into git_1
+
+commit d36f3b0bdbafb301814294a78b317b2dcb2fd226
+Author: ruselseo@gmail.com <ruselseo@gmail.com>
+Date:   Sat Nov 30 14:39:27 2024 -0800
+
+    changed another lines 9 and 10
+
+commit a4951dd53cc9bcfc062865dd427af0b2b96ac43b
+Author: ruselseo@gmail.com <ruselseo@gmail.com>
+Date:   Sat Nov 30 14:34:08 2024 -0800
+
+    added other changes to lines 4 and 5
+
+commit 5c3fa6e451bf7faa0ab2edcdd1424cd2875065e9
+Merge: e15a80c e29ceb9
+Author: ruselseo@gmail.com <ruselseo@gmail.com>
+Date:   Sat Nov 30 14:28:56 2024 -0800
+
+    merged secondFile
+
+commit e15a80c10ff6e298959634dfdabed23dd8987406
+Author: ruselseo@gmail.com <ruselseo@gmail.com>
+Date:   Sat Nov 30 13:34:46 2024 -0800
+
+    secondFile.txt another change
+
+commit e29ceb9ac4a569ba82861ac19b27ac081e520563
+Author: ruselseo@gmail.com <ruselseo@gmail.com>
+Date:   Sat Nov 30 13:33:10 2024 -0800
+
+    1
+
+commit c424d22baddd89b2f1987d3521c18ffe58d3ec15
+Author: ruselseo@gmail.com <ruselseo@gmail.com>
+Date:   Sat Nov 30 13:31:31 2024 -0800
+
+    secondFile.txt changed first 2 lines
+
+commit dec7d9d317521220f984938bf25d6364ba83da47
+Author: ruselseo@gmail.com <ruselseo@gmail.com>
+Date:   Sat Nov 30 13:23:28 2024 -0800
+
+    added secondFile
+
+commit 235ad8036f41ded2186fd24589df008c604497d5
+Author: ruselseo@gmail.com <ruselseo@gmail.com>
+Date:   Sat Nov 30 13:21:01 2024 -0800
+
+    add firstFile
+
+commit ec62299268145eea502e73506e1f800b74d3f135
+Author: ruselseo@gmail.com <ruselseo@gmail.com>
+Date:   Sat Nov 30 13:10:53 2024 -0800
+
+    initial commit
+
+commit 5ccbfe958d216ffbb48e034bb12bd71b0e7a900f
+Merge: ec62299 4af8221
+Author: ruselseo <113802744+ruselseo@users.noreply.github.com>
+Date:   Sat Nov 30 01:44:37 2024 -0800
+
+    Merge pull request #1 from ruselseo/git_2
+    
+    Git 2
+
+commit 4af822196d1a96bc1ec3c643c4adc5fb9ac787d2
+Author: New author Name <ruslan@gmail.com>
+Date:   Mon Sep 9 12:12:00 2024 -0700
+
+    1
